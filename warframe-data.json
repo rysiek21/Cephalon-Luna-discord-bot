@@ -1,0 +1,16 @@
+{
+  "ash": [
+    {
+      "drop": "Główny schemat Ash można kupić na Rynku. Schematy komponentów Asha są uzyskiwane z Venus Proxima (Systems), Neptune Proxima (Neuroptics) i Pluto Proxima (Chassis) w misjach Empirean Defense ( rotacja C ). \n \n Chassis Blueprint          10.26% \n Neuroptics Blueprint       10.26% \n Systems Blueprint          10.53%",
+      "description": "Ash jest świetny dla graczy szukających bardziej skrytego podejścia do walki. Umiejętności śmiercionośne uzupełniają moce odwracania uwagi.",
+      "image": "https://cdn.discordapp.com/attachments/856532037300781106/856532199481147413/450.png"
+    }
+  ],
+  "atlas": [
+    {
+      "drop": "test1",
+      "description": "test1",
+      "image": "https://cdn.discordapp.com/attachments/856495623535591435/856532662537682994/latest.png"
+    }
+  ]
+}
