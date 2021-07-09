@@ -14,7 +14,7 @@ async def sortie(ctx):
   i = 0
   for variants in data["variants"]:
     i = i + 1
-    embed.add_field(name=f'Mission {i}', value=f'Planet: {variants["node"]} \n Mission type: {variants["missionType"]}', inline=False)
+    embed.add_field(name=f'Misja {i}', value=f'Planeta: {variants["node"]} \n Typ misji: {variants["missionType"]}', inline=False)
   embed.set_footer(text=f'{useTime} • Requested by {ctx.author}')
   await ctx.send(embed=embed)
 
