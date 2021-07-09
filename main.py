@@ -11,7 +11,7 @@ key = os.getenv('TOKEN')
 
 @client.event
 async def on_ready():
-  activity = discord.Game(os.getenv('ACTIVITY'))
+  activity = discord.Activity(type=discord.ActivityType.listening, name=os.getenv('ACTIVITY'))
   await client.change_presence(activity = activity)
   print('Bot is running')
 
