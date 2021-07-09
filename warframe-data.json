@@ -1,16 +1,324 @@
 {
-  "ash": [
-    {
-      "drop": "Główny schemat Ash można kupić na Rynku. Schematy komponentów Asha są uzyskiwane z Venus Proxima (Systems), Neptune Proxima (Neuroptics) i Pluto Proxima (Chassis) w misjach Empirean Defense ( rotacja C ). \n \n Chassis Blueprint          10.26% \n Neuroptics Blueprint       10.26% \n Systems Blueprint          10.53%",
-      "description": "Ash jest świetny dla graczy szukających bardziej skrytego podejścia do walki. Umiejętności śmiercionośne uzupełniają moce odwracania uwagi.",
-      "image": "https://cdn.discordapp.com/attachments/856532037300781106/856532199481147413/450.png"
-    }
-  ],
-  "atlas": [
-    {
-      "drop": "test1",
-      "description": "test1",
-      "image": "https://cdn.discordapp.com/attachments/856495623535591435/856532662537682994/latest.png"
-    }
-  ]
+    "ash": [
+      {
+        "drop": "Główny schemat Ash można kupić na Rynku. Schematy komponentów Asha są uzyskiwane z Venus Proxima (Systems), Neptune Proxima (Neuroptics) i Pluto Proxima (Chassis) w misjach Empirean Defense ( rotacja C ). \n \n Chassis Blueprint          10.26% \n Neuroptics Blueprint       10.26% \n Systems Blueprint          10.53%",
+        "description": "Ash jest świetny dla graczy szukających bardziej skrytego podejścia do walki. Umiejętności śmiercionośne uzupełniają moce odwracania uwagi.",
+        "image": "https://cdn.discordapp.com/attachments/856532037300781106/856532199481147413/450.png"
+      }
+    ],
+    "atlas": [
+      {
+        "drop": "Schemat Atlasa jest przyznawany po ukończeniu zadania The Jordas Precept Quest, które odblokowuje misję Jordas Golem Archwing Assassination na Eris, która pozostawia pozostałe schematy komponentów. \n \n Dodatkowo główny plan można kupić u Cephalon Simaris za 50,000 jego reputacji. \n \n Chassis Blueprint          38.72%   \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%",
+        "description": "Tytan z kamienia, władca ziemskich żywiołaków.",
+        "image": "https://cdn.discordapp.com/attachments/856495623535591435/856532662537682994/latest.png"
+      }
+    ],
+    "banshee": [
+        {
+          "drop": "Schematy Banshee można zbadać w Tenno Lab w Dojo",
+          "description": "Wykorzystując ataki dźwiękowe i akustyczne wykrywanie celów, Banshee doskonale nadaje się do rozgrywki w ukryciu i jest w stanie pełnić zarówno role ataku, jak i wsparcia.",
+          "image": "https://media.discordapp.net/attachments/856495751630815262/856532801259962408/latest.png?width=503&height=864"
+        }
+    ],
+    "barukk": [
+      {
+        "drop": "Schematy Baruuka można kupić u  Little Duck, korzystając z pozycji Vox Solaris. Główny schemat wymaga, aby gracze byli na poziomie Agent, podczas gdy schematy komponentów wymagają rangi Hand. Każdy schemat kosztuje 5,000 Reputacji, w sumie 20,000. \n \n Chassis Blueprint          38.72%  \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%",
+        "description": "Strzeż się furii prawdziwie cierpliwych. Pchany bez ograniczeń, niechętny mistrz rozpętuje burzę wewnątrz.",
+        "image": "https://media.discordapp.net/attachments/856496354628206593/856532935552270376/images.png"
+      }
+    ],
+    "chroma": [
+      {
+        "drop": "Główny schemat Chroma jest nagradzany po ukończeniu zadania The New Strange. \n \n Plany komponentów są przyznawane za ukończenie Junctions. Neuroptyka zostanie nagrodzona po ukończeniu Uranus Junction, Chassis Neptune Junction i Systems Pluto Junction. \n \n",
+        "description": "Władca śmiercionośnych żywiołów, Chroma może zmieniać zadawane obrażenia, zmieniając swój Emisyjny Kolor.",
+        "image": "https://media.discordapp.net/attachments/856496459062181899/856533264226582538/latest.png?width=503&height=864"
+      }
+    ],
+    "ember": [
+      {
+        "drop": "Główny schemat Ember można kupić na Rynku. Schematy komponentów Ember otrzymuje się od  General Sargas Ruk (Tethys, Saturn). \n \n Chassis Blueprint          38.72%   \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%",
+        "description": "Ember to koszmar dla lekko opancerzonych celów. Ember może przegrzać powietrze, co otwiera zaskakujące możliwości kontroli tłumu.",
+        "image": "https://media.discordapp.net/attachments/856496552046886944/856533550357807114/450.png"
+      }
+    ],
+    "equinox": [
+      {
+        "drop": "Schematy Komponentów i Aspektów można zdobyć, pokonując Tyl Regor na Titania na Uranus. Główny schemat Equinox można kupić na Rynku. \n \n Day Aspect Blueprint             11.28%  \n Day Chassis Blueprint            2.91% \n Day Neuroptics Blueprint         12.91% \n Day Systems Blueprint            12.91% \n Night Aspect Blueprint           11.28% \n Night Chassis Blueprint          12.91% \n Night Neuroptics Blueprint       12.91% \n Night Systems Blueprint          12.91%",
+        "description": "Dzieląc dzień i noc, Equinox do woli manifestuje agresywne i defensywne formy.",
+        "image": "https://media.discordapp.net/attachments/856496691972407317/856533836699009034/latest.png?width=502&height=862"
+      }
+    ],
+    "excalibur": [
+      {
+        "drop": "Główny schemat Excalibura można kupić na Rynku. Schematy komponentów Excalibura można uzyskać, pokonując Lieutenant Lech Kril na War, Mars. \n \n Chassis Blueprint          38.72%  \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%",
+        "description": "Typek z mieczem se lata.",
+        "image": "https://media.discordapp.net/attachments/856496843637915668/856535123968262154/unknown.png"
+      }
+    ],
+    "frost": [
+      {
+        "drop": "Główny schemat Frosta można kupić na Rynku. Schematy komponentów Frosta można zdobyć, pokonując Lieutenant Lech Kril i Captain Vor na Exta, Ceres. \n \n Chassis Blueprint          38.72% \n  Neuroptics Blueprint       38.72% \n  Systems Blueprint          22.56%",
+        "description": "Kierując wilgoć i parę do otaczającego środowiska, Frost tworzy potężną obronę i śmiercionośne ataki w warunkach poniżej zera.",
+        "image": "https://media.discordapp.net/attachments/856496957198303282/856534328905170984/742.png?width=502&height=862"
+      }
+    ],
+    "gara": [
+      {
+        "drop": "Główny schemat Gary zostanie przyznany po ukończeniu zadania Czuwanie Sayi. Schematy komponentów Gary są pozyskiwane z Bounties z Plains of Eidolon. \n \n Dodatkowe główny schemat można kupić u Cefalon Simaris za 50,000 jeog reputacji. \n \n Chassis Blueprint \n  (Stage 2, lvl 5-15)    7.52% \n \n Chassis Blueprint \n (Stage 3, lvl 5-15)    30.56% \n \n Neuroptics Blueprint \n (Stage 2, lvl 20-40)     8.42%  \n \n Neuroptics Blueprint \n (Stage 3, lvl 20-40)     8.42% \n \n Neuroptics Blueprint \n (Stage 4, lvl 20-40)     20.51% \n \n Systems Blueprint \n (Stage 2, lvl 10-30)     9.52%    \n \n  Systems Blueprint \n (Stage 3, lvl 10-30)     21.82%",
+        "description": "Pole bitwy drży przed krystaliczną mocą Gary, jej dźwięczny dotyk przekształca przeciwników w cele o kruchej urodzie.",
+        "image": "https://media.discordapp.net/attachments/856503416716918835/856536476963045386/523.png?width=483&height=862"
+      }
+    ],
+    "garuda": [
+      {
+        "drop": "Główny plan Garudy zostanie przyznany po ukończeniu zadania Vox Solaris. Schematy komponentów Garudy są pozyskiwane z Bounties na Orb Vallis. \n \n Dodatkowo główny plan można kupić u Cephalon Simaris za 50,000 jego reputacji. \n \n Chassis Blueprint \n (Stage 2, lvl 5-15)    7.52%  \n \n Chassis Blueprint \n (Stage 3, lvl 5-15)    30.56% \n \n Neuroptics Blueprint \n (Stage 2, lvl 20-40)    12.5%    \n \n Neuroptics Blueprint \n (Stage 3, lvl 20-40)    12.5% \n \n Neuroptics Blueprint \n (Stage 4, lvl 20-40)    25% \n \n Systems Blueprint \n (Stage 2, lvl 10-30)    7.41%  \n \n  Systems Blueprint \n (Stage 3, lvl 10-30)    22.22%",
+        "description": "Szkarłatna dziewica śmierci, krew wrogów Garudy nasyca ją siłą i witalnością.",
+        "image": "https://media.discordapp.net/attachments/856497066388881418/856537458518130698/475.png"
+      }
+    ],
+    "gauss": [
+      {
+        "drop": "Główny plan Gaussa można kupić na Rynku. Schematy komponentów Gaussa wypadają z Disruption na Kappa, Sedna (Rotacja B i C). \n \n Chassis Blueprint          7.84% \n Neuroptics Blueprint       7.84% \n Systems Blueprint          7.84%",
+        "description": "Nigdy nie przestawaj się ruszać. Bateria Gaussa jest ładowana ruchem, zasilając jego niszczycielskie zdolności kinetyczne. Nie mogą zabić tego, czego nie mogą trafić.",
+        "image": "https://media.discordapp.net/attachments/856497803945050132/856540693618753596/475.png"
+      }
+    ],
+    "grendel": [
+      {
+        "drop": "Główny schemat Grendela można kupić na Rynku. Schematy komponentów Grendela są przyznawane za ukończenie pewnych misji na Europie za pomocą lokalizatorów, które można kupić u sprzedawcy Honorów Arbitrażu, który można znaleźć w dowolnym przekaźniku za 25 Vitus Essence za sztukę. \n \n Zakup Lokalizatora odblokuje powiązaną z nim unikalną misję, która w nagrodę gwarantuje powiązany z nim komponent Grendela. Misje te będą miały wrogów na poziomie 40-45, jednak gracze nie będą mogli używać swoich przedmiotów Sprzętu, wszystkie Warframe i broń nie będą korzystać z żadnych wyposażonych Modów, a Operatorzy nie będą mogli używać. Jedynymi wyjątkami od tych zasad są Mody Ulepszeń Warframe, których efekty nadal działają. \n \n Grendel Neuroptics Locator : Archaeo-freighter, a 20-minute Survival. \n Grendel Chassis Locator : Icefields of Riddah, a 15-wave Defense \n Grendel Systems Locator : odblokowuje Kopalnię Karishh, misję Excavation, w której gracze muszą zebrać 800 Cryotic",
+        "description": "Konsument światów i wszystkiego innego.",
+        "image": "https://media.discordapp.net/attachments/856498074951745576/856542188623626280/475.png"
+      }
+    ],
+    "harrow": [
+      {
+        "drop": "Główny schemat Harrowa jest przyznawany po ukończeniu zadania Chains of Harrow. Chassis jest uzyskiwany z pokonania wrogów Szczeliny Pustki,  Neuroptics można dostac za ukończenie Spy Pago na Kuva Fortress ( rotacja C ), a System jest nagradzany za misje Defection na rotacjach B i C. \n \n Dodatkowo schematy kompnentów można kupić u Cefalon Simaris za 50,000 jego reputacji.",
+        "description": "Zawsze gotowy do poświęceń. Ten klasztorny Warframe używa Pustki, aby wzmocnić obronę sojuszników i wzmocnić ich śmiertelność.",
+        "image": "https://media.discordapp.net/attachments/856498255601074186/856543606026666044/600.png?width=479&height=862"
+      }
+    ],
+    "hildryn": [
+      {
+        "drop": "Główny schemat Hildryn można kupić u Little Duck za 5,000 reputacji po osiągnięciu rangi Agent w  Vox Solaris.. Schematy komponentów można zdobyć jako drop z Exploiter Orb. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%",
+        "description": "Najlepsza obrona to dobra ofensywa. Hildryn czerpie energię ze swoich Tarcz, aby zasilić swoje umiejętności, podczas gdy Energia ładuje swoje Tarcze.",
+        "image": "https://media.discordapp.net/attachments/856498356120715316/856630395160231956/272.png"
+      }
+    ],
+    "hydroid": [
+      {
+        "drop": "Główny schemat Hydroida można kupić na Rynku. Schematy komponentów Hydroida można uzyskać, pokonując Councilor Vay Hek na Oro na Earth. Misja wymaga 5. Mastery Rank. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56% ",
+        "description": "Wynurzając się z głębin oceanu, Hydroid wykorzystuje moc wody z niszczycielskim efektem.",
+        "image": "https://media.discordapp.net/attachments/856498473293054012/856544337276960788/742.png?width=502&height=862"
+      }
+    ],
+    "inaros": [
+      {
+        "drop": "Inaros jest nagrodą za wykonanie questa Sands of Inaros",
+        "description": "Powstały z piasków Inaros rozkazuje przerażającej mocy pustyni.",
+        "image": "https://media.discordapp.net/attachments/856498920338358282/856545053618208798/742.png?width=502&height=862"
+      }
+    ],
+    "ivara": [
+      {
+        "drop": "Schematy Ivary są nagrodami za wszystkie misjie Spy rotacja C. \n \n Levels 1 -15        Systems \n Levels 16-25      Chassis \n Levels  26 +        Neuroptics/Blueprint",
+        "description": "Ze swoim kołczanem pełnym strzał taktycznych ta łowczyni grasuje niezauważona i uderza bez ostrzeżenia.",
+        "image": "https://media.discordapp.net/attachments/856498999430610974/856546573328973834/742.png?width=502&height=862"
+      }
+    ],
+    "khora": [
+      {
+        "drop": "Schematy Khory są nagrodami za Sanctuary Onslaught. \n \n Chassis Blueprint       8.33%          A Rotation \n \n Neuroptics Blueprint    9.09%          B Rotation  \n \n Main Blueprint          11.28%         C Rotation \n \n Systems Blueprint       11.28%         C Rotation",
+        "description": "Tenno i bestia, czerwoni w biczu i szponach. Khora i jej towarzysz Kavat, Venari, ucieleśniają zabójczą wszechstronność. Dwa ciała, jedno wola",
+        "image": "https://media.discordapp.net/attachments/856499094243246122/856548039366541332/480.png"
+      }
+    ],
+    "lavos": [
+      {
+        "drop": "Schematy Lavosa są dostępne u Father z Entrati standing. Główny schemat wymaga, aby gracze byli na poziomie 2 - Acquaintance, podczas gdy schematy komponentów wymagają rangi 3 - Associate. Każdy plan kosztuje 5,000 Reputacji, w sumie 20,000.",
+        "description": "Ten mistrz alchemii bez wysiłku dowodzi siłami żywiołów.",
+        "image": "https://media.discordapp.net/attachments/856499157375385640/856548889627852821/512.png"
+      }
+    ],
+    "limbo": [
+      {
+        "drop": "Główny schemat Limbo można kupić na Rynku. Schematy komponentów są przyznawane za zadanie The Limbo Theorem, które można uzyskać, wykonując Europa Junction na Jupiter. Archwing jest wymagany do rozpoczęcia tego questa.",
+        "description": "Limbo manipuluje płaszczyznami egzystencji, aby podzielić swoich wrogów i podbić ich w szczelinie.",
+        "image": "https://media.discordapp.net/attachments/856499268642537472/856549649497980968/742.png?width=502&height=862"
+      }
+    ],
+    "loki": [
+      {
+        "drop": "Główny schemat Lokiego można kupić na Rynku. Schematy komponentów Lokiego można zdobyć, pokonując Hyena Pack na Psamathe, Neptune. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Pożądany przez zaawansowanych graczy, Loki oferuje szereg specjalistycznych zdolności rekonfiguracyjnych. Kreatywność mocy Lokiego pozwala graczom opanować pole bitwy poprzez manipulację.",
+        "image": "https://media.discordapp.net/attachments/856499468941262858/856550091867029564/742.png?width=502&height=862"
+      }
+    ],
+    "mag": [
+      {
+        "drop": "Główny schemat Maga można kupić na Rynku. Schematy komponentów Maga można uzyskać, pokonując The Sergeant na Iliadzie, Phobos. \n \n Maga można również kupić w komplecie od Teshina za 60,000 reputacji po osiągnięciu przez graczy rangi Typhoon rank w Conclave. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Mając pełną kontrolę nad otaczającą energią magnetyczną, Mag jest ekspertem w manipulacji wrogami.",
+        "image": "https://media.discordapp.net/attachments/856499701183807499/856550728201797693/742.png?width=502&height=862"
+      }
+    ],
+    "mesa": [
+      {
+        "drop": "Główny schemat Mesy można kupić na Rynku. Schematy komponentów Mesy dostajemy za pokonania Mutalist Alada V na Mutalist Alad V Assassinate, Eris \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Z pewną ręką i szybkim refleksem Mesa jest prawdziwym rewolwerowcem.",
+        "image": "https://media.discordapp.net/attachments/856499788781453332/856551116200607744/742.png?width=502&height=862"
+      }
+    ],
+    "mirage": [
+      {
+        "drop": "Główny schemat Mirage można kupić na Rynku. Schematy komponentów są przyznawane na koniec każdej misji za zadanie Hidden Messages. Wcześniej nagrodzony komponent musi zostać zbudowany, aby otrzymać kolejne komponenty. \n \n Dodatkowo schematy kompnentów można kupić u Cephalon Simaris za 25,000 jego reputacji.",
+        "description": "Mistrzyni iluzji, Mirage wprawia w zakłopotanie wroga spektaklem stylu i mocy.",
+        "image": "https://media.discordapp.net/attachments/856499790551580673/856552446011768842/742.png?width=502&height=862"
+      }
+    ],
+    "nekros": [
+      {
+        "drop": "Główny schemat Nekrosa można kupić na Rynku. Schematy komponentów Nekrosa można zdobyć, pokonując Lephantis na Magnacidium, Deimos. \n \n Chassis Blueprint          33.333% \n Neuroptics Blueprint       33.333% \n Systems Blueprint          33.333%",
+        "description": "Nekros używa swoich mrocznych mocy, aby manipulować swoimi wrogami, zarówno żywymi, jak i martwymi.",
+        "image": "https://media.discordapp.net/attachments/856500013378830357/856555944787312680/latest.png?width=502&height=862"
+      }
+    ],
+    "nezha": [
+      {
+        "drop": "Schematy Nezhy można zbadać w Tenno Lab w Dojo",
+        "description": "Drobna i zabawna fasada skrywa ogromną moc tej ramy.",
+        "image": "https://media.discordapp.net/attachments/856500114483183617/856555898838974464/742.png?width=502&height=862"
+      }
+    ],
+    "nidus": [
+      {
+        "drop": "Główny schemat Nidusa jest pozyskiwany z zadania The Glast Gambit, dodatkowo główny schemat można kupić u Cephalon Simaris za 50,000 jego reputacji. Schematy komponentów Nidusa są uzyskiwane z rotacji C w Infested Salvage na Oestrus, Eris. \n \n Chassis Blueprint          14.29%  \n Neuroptics Blueprint       14.29% \n Systems Blueprint          14.29%",
+        "description": "Rozkaż Infestation, aby mutowała i stawała się coraz bardziej niszczycielska.",
+        "image": "https://media.discordapp.net/attachments/856500203044208650/856557003082039346/272.png"
+      }
+    ],
+    "nova": [
+      {
+        "drop": "Główny schemat Novy można kupić na Rynku. Schematy komponentów Nova można uzyskać, pokonując Raptors na Naamah, Europie. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Nova wykorzystuje energię elektromagnetyczną do przechowywania i kontrolowania bardzo lotnej antymaterii, która napędza jej zdolności.",
+        "image": "https://media.discordapp.net/attachments/856500380006481960/856613747404701787/742.png?width=502&height=862"
+      }
+    ],
+    "nyx": [
+      {
+        "drop": "Główny plan Nyx można kupić na Rynku. Schematy komponentów Nyx można uzyskać, pokonując Phorida podczas Invasion misja Assassination. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56% ",
+        "description": "Nova wykorzystuje energię elektromagnetyczną do przechowywania i kontrolowania bardzo lotnej antymaterii, która napędza jej zdolności.",
+        "image": "https://media.discordapp.net/attachments/856500647959855104/856614385488494622/742.png?width=502&height=862"
+      }
+      ],
+    "oberon": [
+      {
+        "drop": "Główny schemat Oberona można kupić na Rynku. Schematy komponentów Oberona są uzyskiwane z Earth Proxima (Systems), Saturn Proxima (Chassis) i Proximy Veil Proxima Grineer-controlled territory (Neuroptics) Points of Interest w misjach Empyrean.  \n \n  Chassis Blueprint          10% \n Neuroptics Blueprint       10% \n Systems Blueprint          10%",
+        "description": "Równie biegły w leczeniu przyjaciół, jak i powalaniu wrogów, Oberon uosabia równowagę, którą Tenno przysięgali utrzymywać.",
+        "image": "https://media.discordapp.net/attachments/856500899508781076/856616051033899008/742.png?width=502&height=862"
+      }
+    ],
+    "octavia": [
+      {
+        "drop": "Główny schemat Octavii zdobywa się po ukończeniu zadania Octavia's Anthem. Chassis jest nagrodzony z zagadki muzycznej Lua. Neuroptics jest nagrodą za rotację C survivalu na Deimos. Systems można znaleźć w A Rotation Cache na Crossfire Exterminate na Lua. \n \n Dodatkowo główne schematy można kupić u Cephalon Simaris za 50,000 jego reputacji. Mandachord można również kupić za 25,000. \n Chassis Blueprint          100% \n Neuroptics Blueprint       22.56% \n Systems Blueprint          22.56%",
+        "description": "Skomponuj jej piosenkę, a następnie poprowadź potężny Mandachord, zamieniając bas, beat i melodię w niszczycielski hymn.",
+        "image": "https://media.discordapp.net/attachments/856500974587478016/856617128723611655/742.png?width=502&height=862"
+      }
+    ],
+    "protea": [
+      {
+        "drop": "Główny plan Protei jest nagradzany po ukończeniu zadania The Deadlock Protocol. Dodatkowo główny schemat można kupić u Cefalona Simarisa za 50,000 jego reputacji. Schematy komponentów można zdobyć z Granum Void, specjalnej lokalizacji dostępnej tylko w statkach Corpus. Neuroptics pochodzą z rotacji C podstawowej Granum Void (Granum Crown), Chassis z rotacji C Extended (Exemplar Granum Crown) Granum Void, a schematy systemu z rotacji C Nightmare (Zenith Granum Crown) Granum Void \n \n Chassis Blueprint          11.11%  \n \n Neuroptics Blueprint       11.11%  \n (Extended) \n \n Systems Blueprint          11.11% \n (Nightmare)",
+        "description": "Gotowa na każdą ewentualność wszechstronna Protea wykorzystuje swoje liczne gadżety, aby pokonać przeciwności losu.",
+        "image": "https://media.discordapp.net/attachments/856501467731853343/856620281903710258/512.png"
+      }
+    ],
+    "revenant": [
+      {
+        "drop": "Główny plan Revenanta jest przyznawany po ukończeniu zadania  Mask of the Revenant, które odblokowuje się po osiągnięciu rangi „Observer” w The Quills. \n \n Schematy komponentów Revenanta są uzyskiwane z Bounties na Plains of Eidolon. \n \n Chassis Blueprint \n (Stage 2, lvl 30-50)    8.51%  \n \n Chassis Blueprint \n (Stage 3, lvl 30-50)    8.51% \n \n Chassis Blueprint \n (Stage 4, lvl 30-50)    8.33% \n \n Chassis Blueprint \n (Stage 5, lvl 30-50)    19.05% \n \n Neuroptics Blueprint \n (Stage 4, lvl 40-60)    6.76%   \n \n Neuroptics Blueprint \n (Stage 5, lvl 40-60)    10.2% \n \n Systems Blueprint \n (Stage 2, lvl 20-40)    8.42% \n \n Systems Blueprint \n (Stage 3, lvl 20-40)    8.42% \n \n Systems Blueprint \n (Stage 4, lvl 20-40)    20.51%",
+        "description": "Powstań z rozbitych szczątków Eidolon, by uwieść armię gorliwych niewolników.",
+        "image": "https://media.discordapp.net/attachments/856501590467149834/856621098295623730/381.png"
+      }
+    ],
+    "rhino": [
+      {
+        "drop": "Główny schemat Rhino można kupić na Rynku. Schematy komponentów Rhino są uzyskiwane po pokonaniu Jackala na Fossie, Venus.\n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Rhino jest najcięższym Warframe, łączącym możliwości ofensywne i defensywne.",
+        "image": "https://media.discordapp.net/attachments/856501705537093654/856622372148477982/742.png?width=502&height=862"
+      }
+    ],
+    "saryn": [
+      {
+        "drop": "Główny schemat Saryn można kupić na Rynku. Schematy komponentów Saryn są uzyskiwane po pokonaniu Kela De Thaym na Merrow, Sedna. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Jadowite ataki Saryn są przerażająco skuteczne przeciwko organicznym i syntetycznym wrogom, a jej zdolność do „zrzucania” skóry sprawia, że jest bardzo nieuchwytna.",
+        "image": "https://media.discordapp.net/attachments/856501791825592340/856622733979025428/742.png?width=502&height=862"
+      }
+    ],
+    "sevagoth": [
+      {
+        "drop": "Główny plan Sevagotha ​​zdobywa się po ukończeniu zadania Call of the Tempestarii. Jego komponenty można zdobyć podczas misji Void Storm w Pluto Proxima, Neptune Proxima lub Veil Proxima. \n \n Dodatkowo główny plan można kupić u Cephalon Simaris za 50,000 jego reputacji. \n \n Chassis Blueprint          10%   \n Neuroptics Blueprint       10% \n Systems Blueprint          10%",
+        "description": "Ogarnięty burzą, wędrujący przez Pustkę Warframe powrócił, by zbierać żywe dusze. Ześlij jego Cień, aby zbierać życie nieostrożnych.",
+        "image": "https://media.discordapp.net/attachments/856501986777759784/856623922065047552/512.png"
+      }
+    ],
+    "titania": [
+      {
+        "drop": "Główne i składowe schematy Titanii są dostępne w zadaniu The Silver Grove. \n \n Dodatkowo schematy można kupić u Cephalon Simaris 25,000 dla schematów komponentów i 50,000 jego reputacji dla głównego schematu.",
+        "description": "https://media.discordapp.net/attachments/856501857040072704/856625108294303766/373.png",
+        "image": "Uciekaj z tą psotną wróżką."
+      }
+    ],
+    "trinity": [
+      {
+        "drop": "Główny schemat Trinity można kupić na Rynku. Schematy komponentów Trinity są uzyskiwane po pokonaniu Ambulas na Hades, Pluto. \n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Trinity jest świetna dla graczy, którzy preferują rolę wspierającą. Warframe'y z technologią leczenia są rzadkie, co sprawia, że Trinity jest świetnym wyrównywaczem, gdy szanse są skumulowane przeciwko Tenno.",
+        "image": "https://media.discordapp.net/attachments/856502209801879573/856625594422788106/742.png?width=502&height=862"
+      }
+    ],
+    "valkyr": [
+      {
+        "drop": "Główny schemat Valkyr można kupić na Rynku. Schematy komponentów Valkyr można uzyskać, pokonując Alada V na Themisto, Jupiter.\n \n Chassis Blueprint          38.72% \n Neuroptics Blueprint       38.72% \n Systems Blueprint          22.56%  ",
+        "description": "Wykuta w laboratoriach projektu Zanuka, oryginalna Valkyr została poddana okrutnym eksperymentom, pozostawiając ją pokrytą bliznami, złą i przerażająco biegłą w zabijaniu.",
+        "image": "https://media.discordapp.net/attachments/856502408670871563/856627898801717298/latest.png?width=502&height=862"
+      }
+    ],
+    "vauban": [
+      {
+        "drop": "Główny schemat Vaubana można kupić na Rynku. Schematy komponentów Vaubana można kupić w Nightwave Offerings 25 za sztukę, co daje łącznie 75 ",
+        "description": "Wysoce taktyczny Vauban wykorzystuje swoje moce, aby tworzyć śmiercionośne pułapki, które mogą strzelać, więzić i wymiarowo miażdżyć wrogów.",
+        "image": "https://media.discordapp.net/attachments/856502533731385354/856627845357764629/742.png?width=502&height=862"
+      }
+    ],
+    "volt": [
+      {
+        "drop": "Schematy Volta można zbadać w Tenno Lab w Dojo",
+        "description": "Volt potrafi tworzyć i okiełznać elementy elektryczne. Jest to Warframe zadający duże obrażenia, idealny dla graczy szukających potężnej alternatywy dla strzelaniny.",
+        "image": "https://media.discordapp.net/attachments/856502667966414878/856554048899383296/latest.png?width=502&height=862"
+      }
+    ],
+    "wisp": [
+      {
+        "drop": "Schematy Wispa zdobędziesz po pokonaniu Ropalolysta na The Ropalolyst, Jupiter \n \n Main Blueprint             22.56% \n Chassis Blueprint          25.81% \n Neuroptics Blueprint       25.81% \n Systems Blueprint          25.81%",
+        "description": "Żywiołowa i nieuchwytna Wisp jest zarówno strażnikiem, jak i bramą.",
+        "image": "https://media.discordapp.net/attachments/856502741768339466/856627754208591882/272.png"
+      }
+    ],
+    "wukong": [
+      {
+        "drop": "Schematy Wukonga można zbadać w Tenno Lab w Dojo",
+        "description": "Pierwotny wojownik z sercem oszusta.",
+        "image": "https://media.discordapp.net/attachments/856502855946600449/856628122094665748/742.png?width=502&height=862"
+      }
+    ],
+    "xaku": [
+      {
+        "drop": "Główny plan Xaku zostanie przyznany po ukończeniu zadania Heart of Deimos. Schematy komponentów Xaku są pozyskiwane z Bounties na Cambion Drift.\n \n Dodatkowo główny schemat można kupić u Cefalona Simarisa za 50,000 jego reputacji \n \n Dodatkowo wymaga rangi Old Mate w Solaris United w celu nabycia systemów Gyromag i Venerdo Alloy wymaganych do jego budowy. \n \n Chassis Blueprint              8.57% \n (Stage 2 & 3, lvl 40-60)  \n \n Chassis Blueprint              6.67% \n (Stage 4, lvl 40-60) \n \n Chassis Blueprint              13.04% \n (Stage 5, lvl 40-60) \n \n Neuroptics Blueprint           7.5%  \n (Stage 2, lvl 15-25)    \n \n Neuroptics Blueprint           10% \n (Stage 3, lvl 15-25)  \n \n Systems Blueprint              7.5% \n (Stage 2 & 3, lvl 30-40) \n \n Systems Blueprint              6% \n (Stage 4, lvl 30-40) \n \n Systems Blueprint              10% \n (Stage 5, lvl 30-40)",
+        "description": "Ani on, ani ona, Xaku nie jest kompozytem... Warframe złożonym z innych zagubionych we wczesnych ekspedycjach Entrati Void. Xaku opanował tę moc Pustki, aby przerażać i oszołomić swoich przeciwników.",
+        "image": "https://media.discordapp.net/attachments/856502933378039818/856629472769867806/583.png?width=465&height=861"
+      }
+    ],
+    "zephyr": [
+      {
+        "drop": "Schematy Zephyra można zbadać w Tenno Lab w Dojo",
+        "description": "Specjalizujący się w atakach powietrznych i mobilności, Zephyr dominuje z góry.",
+        "image": "https://media.discordapp.net/attachments/856503029800239135/856629743554265108/742.png?width=502&height=862"
+      }
+    ]
 }
