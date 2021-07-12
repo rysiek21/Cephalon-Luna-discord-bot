@@ -16,6 +16,7 @@ async def help(ctx):
   embed.add_field(name=f"{os.getenv('PREFIX')}Invasions", value='Pokazuje aktywne inwazje', inline=False)
   embed.add_field(name=f"{os.getenv('PREFIX')}Sortie", value='Pokazuje aktywne sortie', inline=False)
   embed.add_field(name=f"{os.getenv('PREFIX')}Timers", value='Pokazuje cykl świata', inline=False)
+  embed.add_field(name=f"{os.getenv('PREFIX')}Nightwave", value='Pokazuje aktualne misje oraz datę zakończenia nightwave', inline=False)
   embed.set_footer(text=f'{useTime} • Requested by {ctx.author}')
   await ctx.send(embed=embed)
 
